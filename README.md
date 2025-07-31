@@ -1,4 +1,4 @@
-# Evapformer
+# Evapformer-KAN
 
 
 ## Usage 
